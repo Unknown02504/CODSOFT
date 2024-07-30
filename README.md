@@ -6,7 +6,7 @@ Projects made during intership in CODSOFT
    &nbsp;&nbsp;&nbsp;But there is a catch user will only have 10 attempts to guess the number after using all attemps user will lose the game.</i>
 
 <h4>Second project: Student Grade Calculator</h4>
-&nbsp;&nbsp;&nbsp;In this project i made an basic grade calculator that calculates overall grade according to the total marks obtained by an student and entered by the user.
+&nbsp;&nbsp;&nbsp;In this project i made an basic grade calculator that calculates overall grade according to the total marks obtained by an student and entered by the user.<br><br>
 
 <h4>Third project: ATM INTERFACE</h4>
 &nbsp;&nbsp;&nbsp;In this project i developed an ATM user interface by which you can withdraw money, deposit money or check the balance of the account <br>
