@@ -11,7 +11,6 @@ Projects made during intership in CODSOFT
 <h4>Third project: ATM INTERFACE</h4>
 &nbsp;&nbsp;&nbsp;In this project i developed an ATM user interface by which you can withdraw money, deposit money or check the balance of the account <br>
 <br>
-<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Note: How to Compile and Run Third project: ATM INTERFACE <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Save the BankAccount class in a file named BankAccount.java.<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Save the ATM class in a file named ATM.java.<br>
